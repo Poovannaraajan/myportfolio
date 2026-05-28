@@ -1,7 +1,7 @@
 # Poovannaraajan's Creative Portfolio
 
 <div align="center">
-  <img src="./public/preview.gif" alt="Scrollytelling Portfolio Preview" width="100%" />
+  <img src="./src/public/preview.gif" alt="Scrollytelling Portfolio Preview" width="100%" />
 </div>
 
 A high-performance "Scrollytelling" personal portfolio website featuring scroll-linked animations, HTML5 Canvas image sequence scrubbing, and modern glassmorphism UI.
